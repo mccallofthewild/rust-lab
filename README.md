@@ -10,9 +10,8 @@ fn fizzbuzz() {
         if start.len() + end.len() != 0 {
             println!("{}{}", start, end);
         } else {
-            println!("{}", i)
+            println!("{}", i);
         }
     }
 }
-
 ```
